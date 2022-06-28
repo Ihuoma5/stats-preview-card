@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Ihuoma5/stats-preview-card](https://github.com/Ihuoma5/stats-preview-card)
+- Live Site URL: [https://genuine-meerkat-7368d7.netlify.app/](https://genuine-meerkat-7368d7.netlify.app/)
 
 
 ## Author
